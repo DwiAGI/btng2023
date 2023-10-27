@@ -1,0 +1,44 @@
+section{
+margin: 30px auto;
+}
+section img{
+border-radius: 50%;
+border: 2px solid black;
+}
+#av{
+    background-color: rgb(156, 156, 150);
+    font-size: 20px;
+}
+.amb{
+    height: 1000px;
+}
+#avv{
+    background-color: rgb(156, 156, 150);
+}
+#aa{
+    background-color: rgb(212, 212, 205);
+}
+.bd{
+    border-radius: 100%;
+    border: 4px solid black;
+}
+.avam{
+    background-image: url(dark.jfif);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+}
+.avamm{
+    background-image: url(dark.jfif);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+}
+#alan{
+    width: 10cm;
+}
+#abv{
+    color: red;
+}
